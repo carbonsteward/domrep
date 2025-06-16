@@ -4,7 +4,7 @@ A comprehensive analysis of 25 verified carbon market stakeholders in the Domini
 
 ## 🌐 Live Demo
 
-Visit the interactive report: **[Dominican Republic Carbon Markets](https://yourusername.github.io/domrep/)**
+Visit the interactive report: **[Dominican Republic Carbon Markets](https://carbonsteward.github.io/domrep/)**
 
 ## 📊 Key Statistics
 
